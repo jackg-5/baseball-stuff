@@ -1,4 +1,4 @@
-## baseball-stuff
+# baseball-stuff
 Fooling around with some MLB data / API's
 
 ## plot_hits.py 
